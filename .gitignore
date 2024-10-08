@@ -1,0 +1,11 @@
+.local
+.project
+.settings
+.tmh
+.variations/config.json
+[~][$]*
+Data/Thumbs.db
+Data/Temp
+!Data/Temp/placeholder.txt
+*placeholder.txt
+.local/ProjectSettings.json
